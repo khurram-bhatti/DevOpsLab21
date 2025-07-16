@@ -4,6 +4,6 @@ resources:
 
 images:
   - name: khurrambhatti/frontend
-    newTag: 7ff04e5b7413e28d400701958961c7cb9a8149bc
+    newTag: ac4b51b05d99e83fb55b0c83ecc054e74727b7b3
   - name: khurrambhatti/backend
     newTag: v1
