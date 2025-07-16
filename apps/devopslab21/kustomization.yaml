@@ -1,0 +1,9 @@
+resources:
+  - frontend-deployment.yaml
+  - backend-deployment.yaml
+
+images:
+  - name: khurrambhatti/frontend
+    newTag: v1
+  - name: khurrambhatti/backend
+    newTag: v1
